@@ -20,3 +20,4 @@ The Following abilities are BANNED
 Dominating Captains is NOT ALLOWED (Unless story Blocked)
 Using focus for sprinting is not allowed (unless story blocked)
 No Second Chances if knocked down must take the death (for extra challenge make it a permadeath run)
+Interrogation is not allowed
